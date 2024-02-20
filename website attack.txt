@@ -1,0 +1,40 @@
+T1059 - Command-Line Interface
+T1059.001 - PowerShell
+T1059.003 - PowerShell Empire
+T1552 - Unsecured Credentials
+T1110 - Brute Force
+T1552 - Unsecured Credentials
+T1533 - Data from Information Repositories
+T1113 - Screen Capture
+T1476 - Deliver Malicious App via Authorized App Store
+T1132 - Data Encoding
+T1573 - Encrypted Channel
+T1534 - Internal Spearphishing
+T1078 - Valid Accounts
+T1572 - Disable or Modify System Firewall Settings
+T1480 - Execution Guardrails
+T1059.003 - PowerShell Empire
+T1059.007 - AppleScript
+T1553 - Subvert Trust Controls
+T1068 - Exploitation for Privilege Escalation
+T1606 - Data Encrypted for Impact
+T1124 - System Time Discovery
+T1059 - Command-Line Interface
+T1107 - File Deletion
+T1002
+T1507
+T1509
+T1543
+T1073
+T1516
+T1068
+T1136
+T1547
+T1059
+T1112
+T1133
+T1539
+T1059.001
+T1112.002
+T1133.001
+T1539.001
